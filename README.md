@@ -25,6 +25,3 @@ O BOT foi feito pra analisar o mercado em tempo real e analisar o melhor momento
 ## 💡 Atualização
 Precisa implementar estratégias mais bem elaboradas para um melhor retorno.
 
-# 
- <div align = "center">Feito com 🖤 por <a href="https://www.linkedin.com/in/thiago-russi-79aa3b163/">Thiago Russi</a> 👨‍💻 </div>
- 
